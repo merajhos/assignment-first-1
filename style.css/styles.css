@@ -234,7 +234,6 @@ main{
     padding: 40px 40px;
     margin: 230px auto;
     border: 1px none #627382;
-   
     
 }
 .get{
@@ -266,6 +265,7 @@ main{
 }
 
 /* ............ */
+
 .footer-link{
     height: 270px;
     margin: 0 auto;
@@ -277,12 +277,14 @@ main{
     max-width:120px;
     height: 60px;
 }
+
 .parent{
     padding: 80px 80px;
     display: flex;
    align-items: center;
    justify-content: space-between;
 }
+
 .last{
     justify-content: center;
     align-items: center;
