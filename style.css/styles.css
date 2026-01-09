@@ -36,7 +36,7 @@ nav li a {
 
 
 .btn1{
-    padding: 13px 16px;
+  padding: 13px 16px;
   border: 1px solid #30B868;
   color: white;
   background-color: #30B868;
@@ -141,7 +141,8 @@ main{
     padding: 8px 12px;
     font-size: 22px;
     font-weight: 600;
-}
+} 
+
 .title-p{
     padding: 15px 12px 30px 12px;
     font-size: 18px;
